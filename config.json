@@ -1,0 +1,48 @@
+[
+    {
+        "type": "title",
+        "title": "Currencies"
+    },
+    {
+        "type": "bool",
+        "desc": "",
+        "title": "USD",
+        "key": "USD",
+        "section": "Currencies"
+    },
+    {
+        "type": "bool",
+        "desc": "",
+        "title": "EUR",
+        "key": "EUR",
+        "section": "Currencies"
+    },
+    {
+        "type": "bool",
+        "desc": "",
+        "title": "ILS",
+        "key": "ILS",
+        "section": "Currencies"
+    },
+    {
+        "type": "bool",
+        "desc": "",
+        "title": "GBP",
+        "key": "GBP",
+        "section": "Currencies"
+    },
+    {
+        "type": "bool",
+        "desc": "",
+        "title": "KRW",
+        "key": "KRW",
+        "section": "Currencies"
+    },
+    {
+        "type": "bool",
+        "desc": "",
+        "title": "PLN",
+        "key": "PLN",
+        "section": "Currencies"
+    }
+]
