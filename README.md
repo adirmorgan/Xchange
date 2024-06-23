@@ -10,6 +10,7 @@ It was really handy for me when I was traveling and passing between multiple cou
 ![Screenshot](Resources/AppScreenshotSmall.jpg)
 
 Server side deploied as AWS lambda function, currency rates are sampled once a day from a web service, so it's all free 🌈
+
 The app was on the Google Play Store but was recently removed due to lack of updates :-1:
 
 
